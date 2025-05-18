@@ -35,7 +35,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-100 via-white to-blue-200 dark:from-gray-800 dark:via-gray-900 dark:to-black text-gray-900 dark:text-white flex flex-col items-center p-4 pt-10">
       <h1 className="text-4xl font-bold mb-4 text-blue-700 dark:text-blue-300">
-        Mi App del clima con React
+        Check the Weather
       </h1>
       <WeatherSearch city={city} setCity={setCity} onSearch={fetchWeather} />
       <WeatherDisplay weatherData={weatherData} />
