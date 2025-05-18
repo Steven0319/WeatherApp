@@ -12,6 +12,7 @@ Estilizando con Tailwind CSS y Lucide React.
 
 ##📷Screenshots
 
+<img src="https://raw.githubusercontent.com/Steven0319/WeatherApp/main/src/assets/img/Screenshot.png" alt="Screenshot 5" width="400"/>
 
 ## 🚀 Como ejecutar el proyecto en tu maquina
 
